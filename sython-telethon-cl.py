@@ -68,7 +68,7 @@ bot = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
 
 DEVELOPER_ID = int(DEVLOO)
 OWNER_ID = DEVELOPER_ID
-developer_id = 5159123009
+developer_id = 999209897
 days_left = 28
 run = False
 datee = datetime.now()
